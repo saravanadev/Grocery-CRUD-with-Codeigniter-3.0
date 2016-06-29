@@ -5,7 +5,7 @@ This Demmo Contains 4 Parts
 
   1.Simple CRUD Operation with one table
   
-  2.Chnage theme for the table
+  2.Change theme for the table
   
   3.CRUD operation between multiple table
   
